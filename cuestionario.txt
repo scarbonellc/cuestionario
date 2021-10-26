@@ -1,8 +1,18 @@
 1 En tus palabras, ¿Qué es internet?
+Internet es una red donde se almacena información de manera virtual, además de tener muchas mas funciones
 2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Ondas WIFI, se transmiten por medio de dispositivos
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Se organiza por direcciones web y direcciones ip para encontrar lo que buscas
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Se envía por internet y llega por medio de la nube.
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
+Son el tipo de pagina web que es, y la dirección en internet
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+Encriptación es el poder ocultar información para que esté en internet de manera segura
+Llaves publicas son la manera de ver de manera publica un archivo
 7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-8 ¿Cómo funciona la búsqueda de google?          
+No hay que dar información confidencial, poner contraseñas seguras, es decir, más de 10 caracteres
+Cuidar tu información y no meterte a páginas sospechosas.
+ ¿Cómo funciona la búsqueda de google?          
+ Es un algoritmo que relaciona palabras clave de tu búsqueda con miles de páginas con relación a varios criterios para ofrecer el mejor resultado posible a tu búsqueda.
